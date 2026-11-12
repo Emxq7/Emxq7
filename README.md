@@ -1,4 +1,3 @@
-
 # Hi, I'm Emxq7 👋
 
 ### Python Developer | Automation | Data Analysis
