@@ -1,21 +1,34 @@
-# Hi, I'm Emxq7 👋
+# 👋 Hi, I'm Emxq7
 
-### Python Developer | Automation | Data Analysis
+🐍 Python Developer | Automation | Data Analysis | API Integration
 
-I'm a Python developer building practical solutions through programming, automation, and data analysis.
+Welcome to my GitHub profile!
 
-I enjoy learning new technologies, solving problems, and developing projects that improve everyday workflows.
+I'm a Python developer focused on building practical software solutions through programming, automation, API integration, and data analysis.
 
-### 🐍 Technical Skills
+I enjoy solving problems, learning new technologies, and developing projects that turn ideas into useful applications.
 
-- **Programming:** Python
-- **Python Fundamentals:** Variables, data types, operators, loops and conditionals
-- **Data Structures:** Lists, tuples and dictionaries
-- **Programming Concepts:** Functions and Object-Oriented Programming (OOP)
-- **File Handling:** Reading, writing and managing files
-- **APIs:** Working with APIs and handling data
-- **Automation:** Python scripting and task automation
-- **Data Analysis:** Working with and analysing data
+### Technical Skills
+
+**Programming**
+Python
+Object-Oriented Programming (OOP)
+Functions, loops and conditionals
+Data structures and file handling
+
+**Data & APIs**
+REST API integration
+JSON data processing
+Data analysis
+Pandas
+Matplotlib
+CSV processing
+
+**Automation & Development**
+Python scripting
+File-system automation
+Error handling
+Git and GitHub
 
 ### 🛠️ Tools & Technologies
 
@@ -23,24 +36,40 @@ I enjoy learning new technologies, solving problems, and developing projects tha
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### 📂 Projects
+### 💻 Featured Projects
 
-I use this space to share Python projects, automation scripts, and practical programming exercises.
+1. REST API Data Pipeline
 
-<!-- Add links to your actual projects here -->
+A Python application that retrieves information from REST APIs, validates JSON data, transforms records, and exports structured CSV and JSON files.
 
-### 🎯 Currently Focused On
+Project: https://github.com/Emxq7/api-data-pipeline
 
-- Improving my Python programming skills
-- Building practical Python applications
-- Exploring automation and API integration
-- Developing my data analysis skills
-- Learning and contributing to real-world projects
+2. Sales Data Analysis
+
+A data analysis project that processes sales datasets, calculates business metrics, identifies trends, and generates visual reports.
+
+Project: https://github.com/Emxq7/sales-data-analysis
+
+3. Python Automation Toolkit
+
+A Python automation utility for file inventory, extension-based organization, and CSV reporting, with a safe preview mode.
+
+Project: https://github.com/Emxq7/python-automation-toolkit
+
+
+### 🎯 Current Learning Goals
+
+Improving Python programming and problem-solving skills.
+Building more advanced automation tools.
+Exploring data analysis and visualization.
+Developing API-driven applications.
+Learning software development best practices.
 
 ### 🤝 Let's Connect
 
 GitHub: [@Emxq7](https://github.com/Emxq7)
 
 ---
+⭐ Thanks for visiting my profile!
 
-*Learning, building, and improving one project at a time.* 
+Learning, building, and improving one project at a time.
